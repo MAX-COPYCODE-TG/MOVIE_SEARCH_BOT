@@ -5,5 +5,5 @@
 </p>
 
 <h1 align="center">
-<a href="https://telegram.dog/Telegram_Movie_Search_Bot">Midukki-RoBoT</a>
+<a href="https://telegram.dog/Telegram_Movie_Search_Bot">Telegram_Movie_Search_Bot</a>
 </h1>
